@@ -1,6 +1,7 @@
 # css-frameworks-ca
 To apply knowledge of Bootstrap and SASS I have build a responsive front end for a social media application.
-Mobile Photography app - MP
+
+*Mobile Photography app - MP*
 
 <img width="1605" alt="Skjermbilde 2024-01-28 kl  20 15 14" src="https://github.com/Anne-Serine/css-frameworks-ca/assets/125912893/578606dd-254e-469f-a7da-e2c8d5769ffe">
 
@@ -27,6 +28,3 @@ Built With
     SCSS
     Bootstrap
 
-Contact
-
-My LinkedIn page
